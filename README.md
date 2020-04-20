@@ -1,6 +1,6 @@
-# Discovering Disease Outbreaks Starting Repository
+# Discovering Disease Outbreaks Repository
 
-Starter repository for Manning PBC: Discovering and Tracking Disease Outbreaks with Data Science and Python
+Repository forManning PBC: Discovering and Tracking Disease Outbreaks with Data Science and Python
 
 ## Setup
 
